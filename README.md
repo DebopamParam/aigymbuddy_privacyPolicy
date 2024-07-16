@@ -1,4 +1,4 @@
-# aigymbuddy_privacyPolicy
+# aigymbuddy Privacy and Policy
 
 PRIVACY POLICY
 
