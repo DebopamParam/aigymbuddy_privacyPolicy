@@ -5,6 +5,13 @@ PRIVACY POLICY
 Last updated July 16, 2024
 
 
+## Account Deletion Process
+1. Signin with your account (If you forgot your password, go to forgot password to reset your account)
+2. Open right side App Drawer and goto edit profile
+3. Go there and press Delete my account
+4. Enter your email address twice and press confirm
+5. Your Account and All your data will be deleted successfully
+
 
 This privacy notice for Self ("we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
 Download and use our mobile application (AI Gym Buddy), or any other application of ours that links to this privacy notice
