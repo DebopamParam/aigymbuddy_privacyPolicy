@@ -9,8 +9,10 @@ Last updated July 16, 2024
 1. Signin with your account (If you forgot your password, go to forgot password to reset your account)
 2. Open right side App Drawer and goto edit profile
 3. Go there and press Delete my account
-4. Enter your email address twice and press confirm
+4. Enter your email address and password twice and press confirm
 5. Your Account and All your data will be deleted successfully
+
+   NOTE : If you created your account with google, you need to reset your password. Please logout and click forgot password from login page. Reset your password and then you need to delete your account
 
 
 ## PRIVACY POLICY
